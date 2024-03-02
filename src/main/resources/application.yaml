@@ -1,0 +1,6 @@
+api:
+  key: NeOPedifMlreu9ieVmlC3KBfTon8qPWc
+  exchange:
+    rate:
+      api:
+        url: https://api.currencybeacon.com/v1/latest
